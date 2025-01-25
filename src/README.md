@@ -4,9 +4,11 @@ layout: BlogHome
 icon: house
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: 🍁立秋雨衣🍁
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+bgImage: \public\girl.jpg
+bgImageDark: https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
+tagline: 志之所趋虽远弗宙,穷山距海不能限也
 projects:
   - icon: folder-open
     name: 项目名称
